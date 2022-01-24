@@ -1,0 +1,49 @@
+.FirstDiv{
+    width: 700px;
+    height: 140px;
+    background-color: white;
+    border-left: 3px solid green;
+    margin: auto;
+    box-shadow: 5px 5px 18px lightgray;
+}
+
+
+.CheckH3{
+    display: inline;
+    width: 60px;
+    color: green;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+
+.FirstUL{
+    display: inline-block;
+}
+
+.FirstLI{
+    list-style: none;
+    margin-right: 10px;
+    display: inline-block;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 25px;
+    width: 90px;
+    margin-top: -150px;
+}
+
+.FirstH1{
+    display: inline-block;
+    font-size: 20px;
+    color: black;
+    margin-left: 15px;
+   margin-top: -100px;
+}
+
+
+.FirstH2{
+    font-size: 16px;
+    margin-top: -1%;
+    margin-left: 15px;
+    color: gray;
+}
